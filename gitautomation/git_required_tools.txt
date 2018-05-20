@@ -1,0 +1,10 @@
+autoconf
+libcurl-devel
+expat-devel
+gcc
+gettext-devel
+kernel-headers
+openssl-devel
+perl-devel
+zlib-devel
+wget
